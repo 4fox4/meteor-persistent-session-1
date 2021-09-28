@@ -1,8 +1,8 @@
 Package.describe({
   name: "cultofcoders:persistent-session",
-  version: "0.4.5",
+  version: "1.0.0",
   summary: "Persistently store Session data on the client",
-  git: "https://github.com/cult-of-coders/meteor-persistent-session"
+  git: "https://github.com/observaInc/meteor-persistent-session"
 });
 
 Package.onUse(function(api) {
